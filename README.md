@@ -17,7 +17,7 @@ This experiment demonstrates variance in rollout times during training. Tested o
 
 4. **Run the experiment**
    ```bash
-   uv run example.py
+   uv run python example.py
    ```
 
 ## Expected Results
